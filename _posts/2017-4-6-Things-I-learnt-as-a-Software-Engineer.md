@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Things I learnt in my Software Engineering career!
+comments: true
 ---
 I will discuss some points here which I noticed first-hand and think that make a difference in the life of a Software Engineer
 

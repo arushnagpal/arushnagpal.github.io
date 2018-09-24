@@ -1,6 +1,7 @@
 ---
 layout: post
 title: College to enterprise 101!
+comments: true
 ---
 
 Transition from college to Corporate life is a big change in all aspects, be it technology, atmosphere, culture, people etc.

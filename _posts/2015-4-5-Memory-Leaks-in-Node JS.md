@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Memory Leaks in Node.js!
+comments: true
 ---
 
 One of the main problems which I encountered while writing Node.js applications in Walmart Labs is Memory Leaks.
