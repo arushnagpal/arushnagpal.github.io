@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!! Glad to see you look at the about section.
 
-### More Information
+I have been working as a software enginner in Walmart Labs since January 2017. <br /> I graduated from Thapar University with bachelors in Computer Engineering.<br />  I am passionate about computer science and in this blog I try to jot down some concepts which I find amazing or I didn't find them on the internet.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Resume
+
+Interested in my resume? Check it out here!!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[arushngpl16@gmail.com](mailto:arushngpl16@gmail.com)
