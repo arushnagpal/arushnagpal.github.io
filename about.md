@@ -10,7 +10,7 @@ I have been working as a software enginner in Walmart Labs since January 2017. <
 
 ### Resume
 
-Interested in my resume? Check it out here!!
+Interested in my resume? Check it out [here]({{ site.baseurl }}/content/ARUSH NAGPAL_Resume.pdf)!!
 
 ### Contact me
 

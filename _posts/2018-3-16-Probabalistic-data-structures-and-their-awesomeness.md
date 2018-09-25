@@ -4,7 +4,7 @@ title: Probabilistic data structures and their Awesomeness!
 comments: true
 ---
 
-In college, there's a class known as Data Structures. But what they teach you is just the same old trivial data structures. The best you might have heard of are segment trees, interval trees, suffix trees. There are a lot of interesting but less  used data strctures which you might want to know out of cusiosity. Here are a few of them:
+In college, there's a class known as Data Structures. But what they teach you is just the same old trivial data structures. The best you might have heard of are segment trees, interval trees, suffix trees. There are a lot of interesting but less  used data structures which you might want to know out of curiosity. Here are a few of them:
 - Quadtrees
 - Bloom filters
 - Suffix trie
