@@ -35,4 +35,4 @@ This looks OK at first glance. We could think that theThing get’s overwritten 
 
 ### What to do?
 
-Use the [V8-profiler](https://www.npmjs.com/package/v8-profiler) and chrome developer tools to look formemory consumption over time 
+Use the [V8-profiler](https://www.npmjs.com/package/v8-profiler) and chrome developer tools to look for memory consumption over time.  It provides a convenient option to take a heap snapshot and compare different versions of them. Run ``` node --inspect server.js ``` and then navigate to chrome://inspect and you can remotely debug your node process. If you see heap memory increasing and slowly trying to take up all your memory, look for object references that might not be removed by GC. Still confused, here's a pro tip: just add ``` theThing = null;``` at the end of the function, and your day is saved.
