@@ -44,5 +44,5 @@ There are a numerous ways to solve it.
 You might think of another ways to solve this concern. Solving this issue is easy but time is a major concern. Design is a major concern in large scale applications.
 
 ## Summary
-Intuitively we don't tend to do a proper segregation of components and look how it would scale because nodejs doesn't wait. Every request is supposed to be asynchronous (writing synchronous code in nodejs is a bad idea since the whole principle is *don't ever write blocking code*). So the application might not suffer when it is working on a small scale but complications can occur when we need to scale up. the whole code should be written in such a way that each component is independent and ready to scale up when required. 
-> The key is to write every component as if you were writing a microservice and break each component minutely
+Intuitively we don't tend to do a proper segregation of components and look how it would scale because nodejs doesn't wait. Every request is supposed to be asynchronous (writing synchronous code in nodejs is a bad idea since the whole principle is *don't ever write blocking code*) so we don't see a performance impact in the beginning. Thus the application might not suffer when it is working on a small scale but complications can occur when we need to scale up. The whole code should be written in such a way that each component is independent and ready to scale up when required. 
+> The key is to write every internal component as if you were writing a microservice, breaking each component minutely
