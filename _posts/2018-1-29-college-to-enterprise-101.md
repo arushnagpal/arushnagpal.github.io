@@ -29,6 +29,14 @@ Docker Containers are better than VMs in the following three parameters:
 
 Read this [link](https://www.quora.com/What-is-Docker-Please-explain-it-in-simple-terms) for more details.
 
+## Jira
+In an enterprise, there can be 2 to more than 60 people working on a single component of a project. How do you keep a track of what tasks are there, who is doing what task, how complex is a task or how many days a task should take. Jira is a tool which helps you keep a track of all these things. But who decides the tasks, when do they do that? Read about sprint in the next paragraph.
+
+## Sprint and Agile Methodology
+In an enterprise, things have to be run in an orderly fashion. The work to be done has to be planned earlier according to the deadlines planned by the higher management. 
+
+You will hear the term Sprint a lot. A sprint is a set period of time during which specific work has to be completed and made ready for review. Each sprint begins with a planning meeting. During the meeting, the product owner (the person requesting the work) and the development team agree upon exactly what work will be accomplished during the sprint. The development team has the final say when it comes to determining how much work can practically be accomplished during the sprint, and the product owner has the final say on what criteria need to be met for the work to be approved and accepted. After a sprint begins, the product owner must step back and let the team do their work. During the sprint, the team holds daily stand up meeting to discuss progress and brainstorm solutions to challenges.
+
 ## Frameworks
 You might already know frameworks but why to use them? Isn't it better to write the code from scratch? I'll learn more and I'll write the code only needed to suit my requirements? When you are working in a large company, the clear answer is NO. There are a lot of tasks that need to be done in almost all the applications. Should you waste your time in writing them again and again? No. That is why companies use frameworks, to save time. If you ask me for examples, lets see. Most of the code involves writing REST APIs. It is probably not a very good idea to every time write the code to create a server, expose an endpoint and route it for processing. We should focus more on the part that involves the business logic. Express is a framework in Node.js that handles all this and all you have to do is write 4-5 lines instead of 200-300 lines. Most of the work in large companies is done in modules. You might need to create an object in one module and use it in another. You would like to reuse an object which was created in another module. Similarly, you might want to create some objects at startup or create a global object for whole application. Frameworks like Spring in Java help you with that. I'll suggest you to read [this](http://www.tutorialsteacher.com/ioc/dependency-injection) link for more clarification on this topic.
 
