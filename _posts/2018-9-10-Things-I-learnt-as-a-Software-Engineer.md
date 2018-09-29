@@ -28,6 +28,6 @@ I will discuss some points here which I noticed first-hand and think that make a
 - Know your good points, start focussing on a specific area as opposed to the college time where a jack of all trades in considered good. There will be stubborn people and there will be egotist people. You would want to avoid consistent company of some people who will try to refute the obvious facts, just to get their points doubled.
 11. Find a mentor
 - This might be the last, but has been the most important point which shaped up my life. I'll use it as a post credit scene :P  
-A mentor can help learn in the right direction. A task which you might take 10 hours to complete can be done in less than 2 hours with little guidance. In corporate life, I have been influenced with the following people who did play a major role in shaping up my decisions: Jainesh Doshi, Vamsi Krishna, Sourabh Tripathi, Puneet Jolly, Balaji Muniswamy, Vivek Jha
+A mentor can help learn in the right direction. A task which you might take 10 hours to complete can be done in less than 2 hours with little guidance. In corporate life, I have been influenced with the following people who did play a major role in shaping up my decisions: Jainesh Doshi, Vamsi Krishna, Sourabh Tripathi, Puneet Jolly, Saransh Varshneya, Balaji Muniswamy, Vivek Jha
 
 > Well, read and spread knowledge - that’s how knowledge builds up, like compound interest. - Warren buffet
